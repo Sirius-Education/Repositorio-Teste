@@ -20,7 +20,7 @@ _Testando itálico_
 [GitHub](https://github.com/)
 
 
-(![cachorro-pug-1588098472110_v2_1x1](https://user-images.githubusercontent.com/102360733/162207022-099f90bf-4042-47e2-ad0d-b00d23be5395.jpg)
+![cachorro-pug-1588098472110_v2_1x1](https://user-images.githubusercontent.com/102360733/162207022-099f90bf-4042-47e2-ad0d-b00d23be5395.jpg)
 
 
 
