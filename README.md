@@ -4,17 +4,17 @@ Aprendendo a trabalhar com repositórios , Aula 0 da Sirius.
 Esse é o exercício que estou fazendo de criar um README e criar um conteúdo usando markdown
 
 **Testando o markdown
-Testando e testando** Parou o negrito 
+Testando e testando** Parou o negrito
 
-__Testando mais uma forma__ Parou mais uma vez
+__Testando mais uma forma__ Parou mais uma vez.
 
 # Então isso é Markdown ?
-_Testando itálico_ 
+_Testando itálico_
 1. ITEM 1
 2. ITEM 2
 3. ITEM 3
 
-- Teste 1 
+- Teste 1
 - Teste 2
 
 [GitHub](https://github.com/)
